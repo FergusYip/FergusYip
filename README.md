@@ -1,4 +1,6 @@
-### Hi there 👋
+# Fergus Yip
+
+Hi, welcome to my profile! I'm at Computer Science major at the University of New South Wales. I primarily work with JavaScript (React) and Python, but I also enjoy using a range other technologies such as Shell, Java, C, and etc. Besides software engineering, I am passionate in photography and filmmaking.
 
 <!--
 **FergusYip/FergusYip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
