@@ -1,18 +1,13 @@
-# Fergus Yip
+I am a computer science major at the University of New South Wales, Sydney. I mainly work with TypeScript and React, but I'm not afraid to spread my wings to explore other languages and technologies.
 
-Hi, welcome to my profile! I'm at Computer Science major at the University of New South Wales. I primarily work with JavaScript (React) and Python, but I also enjoy using a range other technologies such as Shell, Java, C, and etc. Besides software engineering, I am passionate in photography and filmmaking.
+Recently, I've started playing with:
 
-<!--
-**FergusYip/FergusYip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Astro (this site)
+- Deno
+- Self-hosting
 
-Here are some ideas to get you started:
+And I'd love to get into:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Rust
+- Go
+- Serious functional programming
